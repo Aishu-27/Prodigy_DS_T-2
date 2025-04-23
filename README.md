@@ -27,7 +27,9 @@ The objective is to uncover insights and patterns from the data, such as how sur
 
 For Queries Contact: www.linkedin.com/in/aishwarya-udhaya-kumar-873438322
 
-Image :
+Video :
 
-![titanic ds Task 2](https://github.com/user-attachments/assets/a38988e2-9b48-4b3d-b6c7-74c8395df733)
+https://drive.google.com/file/d/1vZRhfv5wLHsivtfk8Ugb5FZrHutlSg4U/view?usp=drive_link
+
+
 
